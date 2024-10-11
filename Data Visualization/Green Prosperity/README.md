@@ -2,61 +2,82 @@
 
 ## Project Overview
 
-This project explores the intersection between sustainable energy adoption and national economic growth. Through data analysis and visualization using Tableau, we examine key factors such as global greenhouse gas emissions, renewable energy trends, investments in clean energy, and their impact on economic performance. The aim is to assess whether investments in renewable energy contribute to national growth and sustainable development.
+This project explores the critical intersection between sustainable energy adoption and national economic growth. Through comprehensive data analysis and dynamic visualization using Tableau, we examine key factors including global greenhouse gas emissions, renewable energy trends, clean energy investments, and their collective impact on economic performance. Our aim is to assess whether investments in renewable energy significantly contribute to national growth and sustainable development.
 
 ## Key Findings
 
-- Global greenhouse gas emissions have increased by 107.4% from 1970 to 2022, with the power industry contributing 27.21% of emissions.
-- Renewable energy generation increased by 176.45% from 2000 to 2021.
-- Global investments in renewable energy saw an average annual increase of 169%.
-- Countries prioritizing sustainable development show clear correlations between renewable energy adoption and economic growth.
+- Global greenhouse gas emissions have surged by 107.4% from 1970 to 2022, with the power industry alone contributing 27.21% of total emissions.
+- Renewable energy generation has shown remarkable growth, increasing by 176.45% from 2000 to 2021.
+- Global investments in renewable energy have seen a substantial average annual increase of 169%.
+- Countries prioritizing sustainable development demonstrate clear positive correlations between renewable energy adoption and economic growth.
 
-## Green Prosperity and the Shift Towards Sustainable Energy
-As the world grapples with the escalating challenge of climate change, nations are increasingly turning to renewable energy as a key driver of both environmental and economic transformation. Our analysis of the global energy landscape sheds light on the profound shifts taking place across multiple dimensions—from greenhouse gas (GHG) emissions to investments in clean energy, and ultimately, their impact on national economies.
+## The Shift Towards Sustainable Energy: A Global Perspective
 
-## Dashboards
+As the world grapples with the escalating challenges of climate change, nations are increasingly turning to renewable energy as a key driver of both environmental sustainability and economic transformation. Our analysis of the global energy landscape reveals profound shifts across multiple dimensions—from greenhouse gas (GHG) emissions to investments in clean energy—and their far-reaching impact on national economies.
 
-### Dashboard 1: Global Greenhouse Gas Emissions
-![Dashboard 1](Images/D1_GHG_Emission.png)  
-   The first dashboard highlights the critical issue of greenhouse gas emissions, particularly from the power industry, which contributes 27.21% of global emissions. Despite efforts to curb emissions, the world has seen a 107.4% increase in GHG emissions from 1970 to 2022. The analysis underscores the urgent need for countries to implement and enforce stricter emission reduction policies, as the global race towards achieving net-zero by 2050 intensifies.
+## Dashboard Analysis
+
+### 1. Global Greenhouse Gas Emissions
+![Dashboard 1](Images/D1_GHG_Emission.png)
+
+This dashboard spotlights the critical issue of greenhouse gas emissions, with a particular focus on the power industry's significant 27.21% contribution to global emissions. Despite ongoing efforts to curb emissions, the world has witnessed a staggering 107.4% increase in GHG emissions from 1970 to 2022. This analysis underscores the urgent need for countries to implement and rigorously enforce stricter emission reduction policies as the global race towards achieving net-zero by 2050 intensifies.
 
 **Key Insights:**
-- The power industry contributes 27.21% of global emissions.
-- Global GHG emissions increased by 107.4% from 1970 to 2022.
-- Urgent need for stricter emission reduction policies worldwide.
+- The power industry is responsible for 27.21% of global emissions.
+- Global GHG emissions have increased by 107.4% from 1970 to 2022.
+- There is an urgent need for more stringent emission reduction policies worldwide.
 
-### Dashboard 2: Renewable Energy Landscape
-![Dashboard 2](Images/D2_Energy.png)  
-   The second dashboard explores the global renewable energy landscape. From 2000 to 2021, renewable energy generation increased by a staggering 176.45%. However, countries like China, which lead in renewable energy production, also remain top contributors to GHG emissions, indicating the complex energy mix still dominated by non-renewables. The United States stands as an example of how investments in renewable energy can simultaneously reduce emissions while increasing energy capacity, pointing to a future where clean energy can balance economic growth and environmental sustainability.
+### 2. Renewable Energy Landscape
+![Dashboard 2](Images/D2_Energy.png)
+
+Our second dashboard explores the evolving global renewable energy landscape. The period from 2000 to 2021 saw a remarkable 176.45% increase in renewable energy generation. However, this growth presents a complex picture: countries like China, while leading in renewable energy production, remain top contributors to GHG emissions. This paradox highlights the ongoing dominance of non-renewable energy sources in many national energy mixes. Conversely, the United States serves as an example of how strategic investments in renewable energy can simultaneously reduce emissions and increase energy capacity, pointing towards a future where clean energy can effectively balance economic growth and environmental sustainability.
 
 **Key Insights:**
 - Renewable energy generation increased by 176.45% from 2000 to 2021.
 - China leads in renewable energy production but remains a top GHG emitter.
 - The United States demonstrates how renewable investments can reduce emissions while increasing energy capacity.
 
-### Dashboard 3: Investment in Renewable Energy
-![Dashboard 3](Images/D3_Investments.png)  
-   Investment trends are explored in the third dashboard, which shows a marked increase in global financial commitments to renewable energy, particularly in Asia-Pacific and the Americas. Brazil, India, and Mexico emerge as leading recipients of investments, highlighting the global shift towards financing clean energy projects. The investment surge, which saw an average annual increase of 169%, signals the growing recognition of renewable energy as a cornerstone of future energy strategies.
+### 3. Investment in Renewable Energy
+![Dashboard 3](Images/D3_Investments.png)
 
-### Dashboard 4: Economic Impact of Green Energy
-![Dashboard 4](Images/D5_Economics.png)  
-   The final dashboard focuses on the economic implications of renewable energy. Countries that prioritize sustainable development, such as Iceland, Switzerland, and Denmark, show clear correlations between renewable energy adoption and economic growth. This suggests that clean energy is not just an environmental solution but a key contributor to national economic prosperity. Nations investing in affordable and clean energy, alongside efforts in climate action and sustainable cities, are better positioned to achieve sustained economic growth.
+This dashboard reveals significant trends in global financial commitments to renewable energy, with particular growth in Asia-Pacific and the Americas. Emerging economies such as Brazil, India, and Mexico are becoming leading recipients of these investments, signaling a global shift towards financing clean energy projects. The investment surge, marked by an average annual increase of 169%, indicates the growing recognition of renewable energy as a cornerstone of future energy strategies and economic development.
 
+**Key Insights:**
+- Asia-Pacific and the Americas are seeing the highest growth in renewable energy investments.
+- Emerging economies are becoming major recipients of clean energy investments.
+- The 169% average annual increase in investments signals strong confidence in the renewable sector.
 
-## Conclusion:
-The findings across these dashboards point to a global paradigm shift towards renewable energy, driven by the dual goals of mitigating climate change and fostering economic growth. As investments continue to rise and nations adopt stricter climate policies, renewable energy is poised to reshape the global economy. However, the journey to a sustainable future requires a balanced approach that integrates environmental goals with economic development, ensuring that no nation is left behind in the pursuit of green prosperity.
+### 4. Economic Impact of Green Energy
+![Dashboard 4](Images/D5_Economics.png)
+
+Our final dashboard focuses on the economic implications of renewable energy adoption. Countries that prioritize sustainable development, such as Iceland, Switzerland, and Denmark, exhibit clear correlations between renewable energy adoption and robust economic growth. This suggests that clean energy is not just an environmental imperative but a key contributor to national economic prosperity. Nations investing in affordable and clean energy, alongside efforts in climate action and sustainable urban development, are better positioned to achieve sustained economic growth and improved quality of life for their citizens.
+
+**Key Insights:**
+- Countries prioritizing sustainable development show stronger economic performance.
+- There's a clear positive correlation between renewable energy adoption and economic growth.
+- Investments in clean energy contribute to both environmental sustainability and economic prosperity.
+
+## Conclusion
+
+The findings across these dashboards point to a global paradigm shift towards renewable energy, driven by the dual imperatives of mitigating climate change and fostering economic growth. As investments continue to rise and nations adopt increasingly stringent climate policies, renewable energy is poised to fundamentally reshape the global economy. However, the journey to a sustainable future requires a balanced approach that integrates environmental goals with economic development, ensuring that no nation is left behind in the pursuit of green prosperity.
+
+The data clearly shows that countries embracing renewable energy and sustainable practices are not only contributing to global climate goals but are also positioning themselves for stronger, more resilient economic growth. This symbiotic relationship between sustainability and prosperity offers a compelling roadmap for nations worldwide as they navigate the challenges of the 21st century.
 
 ## Future Work
 
-- Investigate the impact of specific renewable energy policies on economic growth.
-- Analyze the role of technological advancements in driving down renewable energy costs.
-- Explore case studies of countries successfully transitioning to renewable energy.
+To build upon this research and further illuminate the path to green prosperity, we propose the following areas for future investigation:
+
+- Conduct in-depth analysis of specific renewable energy policies and their direct impact on economic growth metrics.
+- Explore the role of technological advancements in driving down renewable energy costs and accelerating adoption.
+- Develop comprehensive case studies of countries successfully transitioning to renewable energy, highlighting best practices and lessons learned.
+- Investigate the potential of emerging technologies like green hydrogen and advanced energy storage in reshaping the renewable energy landscape.
 
 ## How to Use This Repository
 
-1. **Data**: Raw data files can be found in the `data` directory.
-2. **Tableau Workbooks**: Tableau files used for visualization are in the `tableau` directory.
-3. **Scripts**: Any data processing scripts are located in the `scripts` folder.
+1. **Data**: Raw data files are located in the `data` directory.
+2. **Tableau Workbooks**: Tableau files used for visualization are stored in the `tableau` directory.
+3. **Scripts**: Any data processing scripts can be found in the `scripts` folder.
+4. **Documentation**: Additional documentation and methodologies are available in the `docs` directory.
 
 ## Data Sources
 
@@ -71,11 +92,3 @@ The findings across these dashboards point to a global paradigm shift towards re
 
 4. **Sustainable Development Report 2023**  
    Source: [SDR 2023](https://www.kaggle.com/datasets/sazidthe1/sustainable-development-report)
-
-## Contributing
-
-We welcome contributions to this project! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to submit issues, feature requests, and pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
