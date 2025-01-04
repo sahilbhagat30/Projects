@@ -68,7 +68,12 @@ The project is publicly available on [Tableau Public](https://public.tableau.com
 ---
 
 ## Visualizations Included
-![HR Dashboard Preview](https://your-image-link.com)
+
+### HR Summary
+![HR Summary](./Images/HR%20Summary.png)
+
+### HR Details
+![HR Details](./Images/HR%20Details.png)
 
 ---
 
