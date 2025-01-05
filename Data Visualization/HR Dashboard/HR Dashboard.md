@@ -92,6 +92,7 @@ This project does not have a license.
 For any queries or feedback, feel free to reach out:
 - **Name**: Sahil Sanjay Bhagat
 - **GitHub**: [Sahil Sanjay Bhagat](https://github.com/sahilbhagat30?tab=overview&from=2025-01-01&to=2025-01-03)
+- **LinkedIn**: [Sahil Bhagat LinkedIn](https://www.linkedin.com/in/sahilbhagat30/)
 
 ---
 
